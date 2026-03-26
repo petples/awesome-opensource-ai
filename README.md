@@ -497,11 +497,6 @@
 - **[Garak](https://github.com/NVIDIA/garak)** ![GitHub stars](https://img.shields.io/github/stars/NVIDIA/garak?style=social) - LLM vulnerability scanner.
 - **[Phoenix (Arize)](https://github.com/Arize-ai/phoenix)** ![GitHub stars](https://img.shields.io/github/stars/Arize-ai/phoenix?style=social) - AI observability for development.
 
-#### Model Context Protocol (MCP)
-
-- **[MCP Specification](https://github.com/modelcontextprotocol)** ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social) - Open protocol for AI models to interact with tools and data sources. Hosted by Linux Foundation.
-- **[MCP Servers](https://github.com/modelcontextprotocol/servers)** ![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social) - Official reference implementations for databases, APIs, file systems, and more.
-
 ---
 
 ### 📚 14. Resources & Learning
