@@ -63,6 +63,7 @@
 - **[PyTorch](https://github.com/pytorch/pytorch)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/pytorch?style=social) - Dynamic computation graphs, Pythonic API, dominant in research and production. The current standard for most frontier AI work.
 - **[TensorFlow](https://github.com/tensorflow/tensorflow)** ![GitHub stars](https://img.shields.io/github/stars/tensorflow/tensorflow?style=social) - End-to-end platform with excellent production deployment, TPU support, and large-scale serving tools.
 - **[JAX](https://github.com/jax-ml/jax)** ![GitHub stars](https://img.shields.io/github/stars/jax-ml/jax?style=social) + **[Flax](https://github.com/google/flax)** ![GitHub stars](https://img.shields.io/github/stars/google/flax?style=social) - High-performance numerical computing with composable transformations (JIT, vmap, grad). Rising favorite for research and scientific ML.
+- **[NumPyro](https://github.com/pyro-ppl/numpyro)** ![GitHub stars](https://img.shields.io/github/stars/pyro-ppl/numpyro?style=social) - Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation. Bayesian modeling and inference at scale.
 - **[Keras](https://github.com/keras-team/keras)** ![GitHub stars](https://img.shields.io/github/stars/keras-team/keras?style=social) - High-level, beginner-friendly API that now runs on multiple backends (TensorFlow, JAX, PyTorch). Perfect for rapid experimentation.
 - **[tinygrad](https://github.com/tinygrad/tinygrad)** ![GitHub stars](https://img.shields.io/github/stars/tinygrad/tinygrad?style=social) - Minimalist deep learning framework with tiny code footprint. The "you like pytorch? you like micrograd? you love tinygrad!" philosophy - simple yet powerful.
 - **[PyTorch Geometric](https://github.com/pyg-team/pytorch_geometric)** ![GitHub stars](https://img.shields.io/github/stars/pyg-team/pytorch_geometric?style=social) - Library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Part of the PyTorch ecosystem.
@@ -92,6 +93,7 @@
 - **[Dask](https://github.com/dask/dask)** ![GitHub stars](https://img.shields.io/github/stars/dask/dask?style=social) - Parallel computing for big data - scales pandas/NumPy/scikit-learn to clusters.
 - **[NumPy](https://github.com/numpy/numpy)** ![GitHub stars](https://img.shields.io/github/stars/numpy/numpy?style=social) - Fundamental array computing library that powers almost every AI stack.
 - **[SciPy](https://github.com/scipy/scipy)** ![GitHub stars](https://img.shields.io/github/stars/scipy/scipy?style=social) - Scientific computing algorithms (optimization, linear algebra, statistics, signal processing).
+- **[NetworkX](https://github.com/networkx/networkx)** ![GitHub stars](https://img.shields.io/github/stars/networkx/networkx?style=social) - Creation, manipulation, and study of complex networks. The foundational graph analysis library for Python data science.
 
 #### Classical ML & Gradient Boosting
 
@@ -99,6 +101,8 @@
 - **[XGBoost](https://github.com/dmlc/xgboost)** ![GitHub stars](https://img.shields.io/github/stars/dmlc/xgboost?style=social) - Scalable, high-performance gradient boosting library. Still dominates Kaggle and tabular competitions.
 - **[LightGBM](https://github.com/microsoft/LightGBM)** ![GitHub stars](https://img.shields.io/github/stars/microsoft/LightGBM?style=social) - Microsoft's ultra-fast gradient boosting framework, optimized for speed and memory.
 - **[CatBoost](https://github.com/catboost/catboost)** ![GitHub stars](https://img.shields.io/github/stars/catboost/catboost?style=social) - Gradient boosting that handles categorical features natively with great out-of-the-box performance.
+- **[sktime](https://github.com/sktime/sktime)** ![GitHub stars](https://img.shields.io/github/stars/sktime/sktime?style=social) - Unified framework for machine learning with time series. Scikit-learn compatible API for forecasting, classification, clustering, and anomaly detection.
+- **[StatsForecast](https://github.com/Nixtla/statsforecast)** ![GitHub stars](https://img.shields.io/github/stars/Nixtla/statsforecast?style=social) - Lightning-fast statistical forecasting with ARIMA, ETS, CES, and Theta models. Optimized for high-performance time series workloads.
 
 #### AutoML & Hyperparameter Optimization
 
@@ -121,6 +125,7 @@
 - **[safetensors](https://github.com/huggingface/safetensors)** ![GitHub stars](https://img.shields.io/github/stars/huggingface/safetensors?style=social) - Simple, safe way to store and distribute tensors. Fast, secure alternative to pickle for model serialization.
 - **[torchmetrics](https://github.com/Lightning-AI/torchmetrics)** ![GitHub stars](https://img.shields.io/github/stars/Lightning-AI/torchmetrics?style=social) - Machine learning metrics for distributed, scalable PyTorch applications. 80+ metrics with built-in distributed synchronization.
 - **[torchao](https://github.com/pytorch/ao)** ![GitHub stars](https://img.shields.io/github/stars/pytorch/ao?style=social) - PyTorch native quantization and sparsity for training and inference. Drop-in optimizations for production deployment.
+- **[SHAP](https://github.com/shap/shap)** ![GitHub stars](https://img.shields.io/github/stars/shap/shap?style=social) - Game theoretic approach to explain the output of any machine learning model. Industry standard for model interpretability.
 
 ---
 
